@@ -1,6 +1,6 @@
 # SQL Syntax Series using Netflix Dataset 
 
-This project demonstrates how to use SQL for analyzing a Netflix dataset. The analysis is performed in Python utilizing Pandas and SQLite, which enables efficient data manipulation and querying.
+This project demonstrates how to use SQL for analyzing a Netflix dataset. The analysis is performed in Python utilizing Pandas and SQLite, which enables efficient data manipulation and querying. 
 
 ## Project Overview
 
